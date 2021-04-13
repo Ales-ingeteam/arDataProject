@@ -1,2 +1,2 @@
 # arDataProject
-Ar web project to show data on click in tracked 3D object
+Ar web project to show data on click in tracked 3D object with barcode markers.
